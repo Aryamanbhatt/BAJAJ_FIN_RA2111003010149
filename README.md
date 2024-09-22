@@ -1,6 +1,6 @@
 # BFHL Project by ARYAMAN BHATT(RA2111003010149)
 
-This project is designed to build and deploy a REST API that accepts both GET and POST methods and provides specific responses based on the input, as well as a React-based frontend application to interact with the backend API.
+This project, developed for the Bajaj Finserv Online Test, involves building a full-stack application that processes JSON input by distinguishing between characters, numbers, and identifying the highest alphabet from the input.
 ### PROJECT LINK : https://aryamanbhatt.github.io/BAJAJ_FIN_RA2111003010149/
 
 
